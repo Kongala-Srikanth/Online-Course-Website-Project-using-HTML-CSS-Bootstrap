@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-color {
+    background-color:rgb(255, 255, 255);
+    width: 100vw;
+}
+
+.home-bg-image-size {
+    width: 800px;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.home-main-heading {
+    color: black;
+    font-family: "Calisto MT";
+    font-weight: 600;
+    font-size: 70px;
+    margin-top: 180px;
+}
+
+.home-menu-bar {
+    background-color: rgb(9, 77, 93);
+    width: 100vw;
+    height: 70px;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.home-logo-size {
+    height: 90px;
+    width: 130px;
+    padding: 3px;
+    padding-bottom: 20px;
+}
+
+.home-social-media {
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.padding {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.left-padding {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+.top-padding {
+    padding-top: 12px;
+}
+
+.top-margin {
+    margin-top: 25px;
+}
+
+.round-button-size {
+    border-radius: 25px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.home-paragraph {
+    color: #000000;
+    font-family: "Roboto";
+}
+
+.course-page-bg-color {
+    background-color: #f2efef;
+    padding: 40px;
+}
+
+.course-page-card {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 320px;
+    border-radius: 25px;
+}
+
+.course-card-image-size {
+    height: 220px;
+    width: 280px;
+    border-radius: 25px;
+}
+
+.course-heading {
+    color: #060039;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    padding: 13px;
+}
+
+.margin-sides {
+    margin-right: 30px;
+}
+
+.course-full-card-bg-color {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.seprate-course-image-size {
+    height: 240px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.cards-top-padding {
+    padding-top: 25px;
+}
+
+.course-time {
+    font-family: "Roboto";
+    color: #444444;
+    font-size: 13px;
+    padding-left: 15px;
+}
+
+.interview-page-bg-color {
+    background-color: #f2efef;
+    padding: 20px;
+}
+
+.interview-page-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.interview-main-heading {
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.interview-sub-heading {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.interview-paragraph {
+    color: #444444;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.right-bottom-sides-padding {
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+.text-color {
+    color: #0f039a;
+}
